@@ -1,0 +1,41 @@
+li a:hover {
+    background-color: #111;
+  }
+  
+  
+  /* .main-nav a {
+    color: #34495e;
+    font-size: 0.99em;
+  }
+  
+  .logo {
+    height: 50px;
+  }
+  
+  
+  
+  .main-nav a {
+    color: #34495e;
+    font-size: 0.99em;
+  }
+  
+  .main-nav a {
+    padding: 10px 15px;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+  }
+   */
+ 
+  
+  .main-nav {
+    display: flex;
+    text-transform: uppercase;
+    list-style-type: none;
+    background-color: rgb(63, 159, 189);
+    margin: 10px;
+    padding:10px;
+    justify-content: space-between;
+    list-style: none;
+  }
+  
